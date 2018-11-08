@@ -4,9 +4,8 @@ title:  Train Trip from IF
 date:   2015-08-09 09:49:50 -0500
 categories: fiction
 contentType: fiction
+desc: A peice of a novel I started in ~1999? ish.  In this passage, the character is on a cross country train trip after making some big decisions, and acting on what she believes is right, which involved murdering someone.
 ---
-
-A peice of a novel I started in ~1999? ish.  In this passage, the character is on a cross country train trip after making some big decisions, and acting on what she believes is right, which involved murdering someone.
 
 When she woke, the light was faint.  She couldn't tell if the sun was rising or setting, if she had slept five hours, or eighteen, or thirty.  She watched the dim light on the trees and dirt, and fell asleep again.
 

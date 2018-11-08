@@ -1,6 +1,10 @@
 function linker(a){
 	var link = $(a).data('link'),
 		loc = $(a).closest('article').attr('id');
+		if(!loc){
+			var loc = $(a).closest('footer').siblings('article').attr('id');
+		}
+	// console.log(loc);
 	content[loc].push($('#' + loc).children().detach());
 	$('#' + loc).load(link);
 }

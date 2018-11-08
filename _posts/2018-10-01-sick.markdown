@@ -4,6 +4,7 @@ title:  Airports are disgusting
 date:   2018-10-01 14:40:17 -0500
 categories: autobio
 contentType: autobio
+desc: a trip to Boston
 ---
 
 Due, surely, to some corporate shit trying to save money, my flight is delayed.  I'm sitting here with my good-natured 3yo son, whose good-naturedness surely as a limit, which I may see today, waiting for who the fuck knows what.  

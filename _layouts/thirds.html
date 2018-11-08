@@ -5,7 +5,7 @@
 	<title></title>
 	<script src="/assets/js/jquery-3.3.1.min.js"></script>
     <script src="/assets/js/thirds.js"></script>
-    <script src="/search.js"></script>
+    <!-- <script src="/search.js"></script> -->
 	<link rel="stylesheet" href="/assets/css/styles.css">
 	<script>
 	var content = {
@@ -18,7 +18,7 @@
 <body>
 	<main>
 		<section class="thirds one-third">
-			<header class="header1">Journal</header>
+			<header class="header1">Auto/Biographics</header>
 			<article class="article1 hidden"  id="articleLeft">
 				<ul>
 					{% for post in site.posts %}
@@ -36,7 +36,7 @@
 					<input class="search-input" type="text" name="music" placeholder="Search">
 				</div>
 				<div class="float-right">
-					<span class="link bottom-link float-right" onclick="linker(this)" data-link="{{ about.url }}">
+					<span class="link bottom-link float-right" onclick="linker(this)" data-link="about/index.html">
 						About
 					</span>
 				</div>
@@ -61,7 +61,7 @@
 					<input class="search-input" type="text" name="fiction" placeholder="Search">
 				</div>
 				<div class="float-right">
-					<span class="link bottom-link float-right" onclick="linker(this)" data-link="{{ about.url }}">
+					<span class="link bottom-link float-right" onclick="linker(this)" data-link="about">
 						About
 					</span>
 				</div>
@@ -86,7 +86,7 @@
 					<input class="search-input" type="text" name="nonfiction" placeholder="Search">
 				</div>
 				<div class="float-right">
-					<span class="link bottom-link float-right" onclick="linker(this)" data-link="{{ about.url }}">
+					<span class="link bottom-link float-right" onclick="linker(this)" data-link="about">
 						About
 					</span>
 				</div>

@@ -9,7 +9,6 @@ html {
 	display: inline-block;
 	width: 31%;
 	vertical-align: top;
-    overflow: hidden;
 }
 
 .active {
@@ -28,6 +27,7 @@ header, article, footer {
 	background-color: #222;
 	border: 1px solid #E8E9CA;
 	margin: 10px;
+	overflow: hidden;
 }
 header, article {
 	padding: 10px;

@@ -17,5 +17,3 @@ The world was so gentle.  Things didn't feel so rushed.  Most of the time, I'm r
 Accurate perception?
 Painful memories?
 The endless to do list, the clobber of guilt?
-
-I like looking out the windows of the train when I'm able to not judge what I see.  Music helps, but I always feel bad having headphones on when I'm with the kids.

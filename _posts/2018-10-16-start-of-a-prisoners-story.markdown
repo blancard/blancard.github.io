@@ -4,6 +4,7 @@ title:  A Prisoner's Story - Beginning
 date:   2018-10-16 09:49:50 -0500
 categories: fiction
 contentType: fiction
+desc: I've started this story so many times.  I'm hoping one of htese times I'll stop writing the beginning and start writing the rest.
 ---
 
 

@@ -4,7 +4,9 @@ title: masspike
 date: 2018-11-08 10:35:37
 categories: autobio
 contentType: autobio
+desc: This happened in the summer of 1995.
 ---
+
 The cool midnight mist held the streetlight in gentle sparkles, giving us a window into the dark green woodlands around us.  The parking lot was empty except for our little car, and the two of us, high and spread thin, scattered indiscriminately, while we considered our options.
 
 We had, of course, no options.  We had been driving in the wrong direction for several hours, so the only thing to do was to turn around and drive back.  Pausing wasn't to consider our situation, it was to accept the reality of backtracking.
