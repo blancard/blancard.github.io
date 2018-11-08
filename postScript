@@ -1,0 +1,18 @@
+#!/bin/bash
+read -p "title: " Title
+read -p "contentType: " ContentType
+read -p "file to copy: " OrigFile
+OrigFileFull=~/Documents/stories/$OrigFile
+shortDate=$(date -r $OrigFileFull "+%Y-%m-%d")
+longDate=$(date -r $OrigFileFull "+%Y-%m-%d %H:%M:%S" )
+filePath=~/Documents/nblancard/blancard.github.io/_posts
+filename=$filePath/$shortDate-$Title.markdown
+touch $filename
+echo "---" >> $filename
+echo "layout: post" >> $filename
+echo "title: "$Title >> $filename
+echo "date: "$longDate >> $filename
+echo "categories: "$ContentType >> $filename
+echo "contentType: "$ContentType >> $filename
+echo "---" >> $filename
+cat $OrigFileFull >> $filename
