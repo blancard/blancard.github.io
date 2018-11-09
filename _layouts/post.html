@@ -1,4 +1,4 @@
 <span onClick="backLinker(this)" class="back-link">&lt; back</span>
 <h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }}: {{page.desc}}</p>
+<p>{% if page.title == "About" %}{% else %}{{ page.date | date_to_string }}: {{page.desc}}{% endif %}</p>
 {{ content }}
