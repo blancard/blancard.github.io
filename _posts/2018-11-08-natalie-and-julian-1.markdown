@@ -172,4 +172,62 @@ Julian looked up at the old man.  "So you live here?"
 
 Natalie knew Julian would ask, even though it was a little impolite.  She nudged him in the ribs with her elbow, but he ignored her.  "What's your full name?"
 
-"Gronklamoose Percival Moopstop."
+"Gronklamoose Percival Moopstop."  Even Gronk was laughing.
+
+Chapter Next
+
+They saw a few small buildings nestled in the woods ahead.  As they got closer, they saw that it really was a tiny village - just a 2 or 3 story houses and buildings built in a circle, around a sort of small plaza.  The houses seemed to face in towards the middle, so they could only see the backs of them, but each had a small back door, a little garden, and the occasional laundry line.  As they got closer they started to see some of the villagers - beings of all shapes and sizes - but before they could get a good look, there was shouting.  A blue and white mushroom came bouncing out, shouting at the three of them, in a deep, booming voice.  
+
+"GRONK! ARE YOU OK?  WHO ARE THESE SMALL THINGS?  ARE YOU IN DANGER??"  The mushroom bounced to a stop right in front of Julian and Natalie.  "Who are you?  Are you here to make trouble?  Don't you dare hurt Gronk, he's very skinny and boney and the gray hair, a lot of people might say he needs a bit of a trim - but he's my friend and I won't stand by while you hurt him, you got that?"
+
+"Rumpleblump, I'd like you to meet my friends.  They've brought Kisma home to charge up.  This is Natalie, and this is Julian."
+
+Rumpleblump eyed them warily, and then, with a suspicious squint, said, in a much quieter tone, "Are you here to eat us?"
+
+Natalie and Julian shook their heads vigorously.  
+
+"Are you here to eat Kisma."
+
+Natalie and Julian shook their heads vigorously again.  
+
+"Are you here because you want us to eat you?
+
+Natalie and Julian shook their heads vigorously.  
+
+He looked up at Gronk, clearly confused.  "I don't understand what's going on, Gronk.  Who are they here to eat?"
+
+"Rumpleblump, my dear friend, they aren't here to eat anyone.  They're here because Kisma brought them here.  Kisma faded out, and they have been kind enough to return him home."
+
+Rumpleblump turned back to them sharply.  "You know where Kisma is?"
+
+Natalie chirped up, trying hard not to laugh at this silly little mushroom.  "Yes, he's right here!"  She carefully took the little star from her pocket and showed it to Rumpleblump.
+
+"That's Kisma!  Gronk, take a look, this weird creature was holding Kisma in one of her flaps!"
+
+Gronk bent down and spoke very softly to Rumpleblump.  "Listen, I have a very important job that I don't know if anyone will be able to do.  I'd like you to ask everyone in the village whether they can make two cups of tea for our guests, Natalie and Julian."
+
+Rumpleblump whispered back.  "Gronk, you've come to the right shroom.  I myself already know how to make tea.  I can make the tea for them myself."
+
+Gronk feigned surprise.  "You can!  Well, then, by all means, please, perhaps you can teach Zinnow how to do it, ok?  That way the entire village won't rely on only you to make their tea."
+
+"You are nearly my intellectual equal, Gronk."  He bounced away.  Natalie and Julian soon heard his round, voluminous voice boldly announcing his every movement to, presumably, Zinnow, whoever that was.  "Next I will move my arm thusward..."
+
+Gronk sighed and looked at them.  "Our village is a wonderful place to live.  Some of our residents are less wonder and more full.  Come.  I'll show you how the Starlians recharge."
+
+The path led through an archway, decorated with lights and winding vines.  As they entered the village proper, they saw that it was quite a bustling place.  Many of the houses had storefronts or eateries, and residents of all shapes and sizes buzzed about.  Natalie noticed that there were many other stars, all of them darting and wafting as Kisma had.  There were fruit-people, talking animals, one person that appeared to be made of purple smoke, and even a glob of goo with a handbag.  Julian even spotted two plants having a snack at a cafe.  
+
+Two little stars floated down to Natalie, and started hovering around her pocket.  Gronk smiled.  "It seems Hattie and Joosh have found their friend.  These are Natalie and Julian, Kisma brought them here and then promptly faded out.  They've taken good care of her."  The two little stars seemed to twinkle appreciatively.
+
+Julian noticed Rumpleblump by a large fountain in the center of the plaza, forcefully demonstrating his tea-making technique to the timid glob of goo carrying the handbag.  "Next I use my arm to place the kettle onto the heat.  Can you do arms?  Well, you're going to need to be able to do arms to do this.  Hey, you've got that bag there, so, however you're holding that bag, do that, but with this.  Got it?"
+
+Julian was enjoying watching all the different creatures interacting.  A two-legged golden retriever was buying a sandwich from a talking sandwich tree; two tiny fairies pulled a drink from a cooler and placed it next to his plate.  A tall stack of papers was talking spiritedly to a 5-foot banana, who was listening with a deeply interested expression.  The purple smoke creature was gesturing to a shopkeeper, miming something Julian didn't understand.  The shopkeeper, who looked like a life-sized teddy bear, was picking up item after item, trying to figure out what his customer wanted.  The plaza was abuzz with talk and laughter and exhuberance, and, as Natalie had noticed, many, many other tiny stars.
+
+Natalie, on the other hand, was preoccupied otherwise.  The two little stars were nudging her hand, trying to get her to extricate Kisma from her jacket pocket.  As she did so, their excitement was obvious, even without words.  They flipped and bopped around, and soon they were trying to push her along toward the center of the plaza. Gronk encouraged her to follow their lead.  She made sure to take Julian by the hand as they moved through the crowd toward the fountain.
+
+As they approached, she could see that it wasn't a fountain at all - or, rather, what was running through the fountain wasn't water.  A blue, glowing light seemed to flow from the top of the fountain down into the base, where, she could see, there were dozens of tiny stars floating along, like kids in a pool.  Hattie and Joosh dropped right in, and looked up at Natalie expectantly.  
+
+"Place Kisma into the fountain," Gronk said.
+
+Natalie slowly lowered her hand into the blue light.  She felt a light tingle when she touched it.  She took her hands away and the dim little star seemed to float in the strange fountain.  Julian, whose attention had returned, and Natalie, noticed faint electricity, like tiny shocks of lightning, throughout the dim little star.  Within moments, it seemed to fill with the same yellow light as the others.  Suddenly it twitched, shook, and zoomed to life, wiggling and bouncing happily, as though it had never been dim.
+
+Julian and Natalie looked at each other, happily; Julian even clapped a little.  Gronk smiled and spoke.  "It will take a few hours for it to be fully charged again."
