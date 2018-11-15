@@ -230,4 +230,17 @@ As they approached, she could see that it wasn't a fountain at all - or, rather,
 
 Natalie slowly lowered her hand into the blue light.  She felt a light tingle when she touched it.  She took her hands away and the dim little star seemed to float in the strange fountain.  Julian, whose attention had returned, and Natalie, noticed faint electricity, like tiny shocks of lightning, throughout the dim little star.  Within moments, it seemed to fill with the same yellow light as the others.  Suddenly it twitched, shook, and zoomed to life, wiggling and bouncing happily, as though it had never been dim.
 
-Julian and Natalie looked at each other, happily; Julian even clapped a little.  Gronk smiled and spoke.  "It will take a few hours for it to be fully charged again."
+Julian and Natalie looked at each other, happily; Julian even clapped a little.  Gronk smiled and spoke.  "It will take a few hours for her to be fully charged, she'll have to remain near the fountain until then."
+
+Natalie and Julian watched the fountain and the little stars for a moment, until Julian turned to Natalie and tugged her sleeve.  She understood.
+
+"Gronk?"
+
+"Yes?"
+
+"How can we go home?"
+
+Chapter Next?
+
+Gronk looked at her seriously.  "Any of the starlians can take you home, but I'm afraid there's only one that will know where that is.  You will probably have to wait until Kisma is charged to go home.  Until then, we can make sure you are comfortable and fed.  Will that be acceptable?"
+
