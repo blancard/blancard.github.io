@@ -60,7 +60,7 @@ Natalie turned back to the tiny, dim star.  "I'm not sure.  Let's take it home a
 
 No response.
 
-It was soft, and warm, like their cat's tummy.  "I think it's hurt," Natalie said, "I think it needs our help."  She scooped her hands under it, pressing into the grass, until she felt its weight and its soft warmth against her palms.  Julian leaned so close their heads were touching.  As she lifted the little star, it started to glow a little more brightly, and then a lot more brightly.  In a moment, it was even brighter than it had been before it had fallen.
+It was soft and warm, like their cat's tummy.  "I think it's hurt," Natalie said, "I think it needs our help."  She scooped her hands under it, pressing into the grass, until she felt its weight and its soft warmth against her palms.  Julian leaned so close their heads were touching.  As she lifted the little star, it started to glow a little more brightly, and then a lot more brightly.  In a moment, it was even brighter than it had been before it had fallen.
 
 Natalie and Julian held still, watching the little star pulsing light in slow waves, until it seemed to be pushing out all of its brightness, trying as hard as it could, then, when it seemed it couldn't get any brighter they felt it lifting up - lifting them up - until they were floating a few feet off the ground.
 
@@ -68,7 +68,7 @@ Natalie and Julian could hardly believe what was happening.  They looked at each
 
 They burst through the cool, wet clouds, shooting past the sky, into the inky darkness beyond, faster and faster, as if riding a spaceship made of the little star's light.  Natalie grabbed Julian's hand and held it tightly. She wasn't afraid, she just really loved him, or, at least, that's what she told me, later, when they got to my planet.
 
-####Chapter 2.
+### Chapter 2.
 
 They raced through new solar systems, past undiscovered planets, through interstellar clouds and nebulae and, Julian thought, maybe even a black hole. Natalie thought that you wouldn't be able to see a black hole, but she didn't know for sure.
 
@@ -174,7 +174,7 @@ Natalie knew Julian would ask, even though it was a little impolite.  She nudged
 
 "Gronklamoose Percival Moopstop."  Even Gronk was laughing.
 
-####Chapter Break?
+### Chapter Break
 
 They saw a few small buildings nestled in the woods ahead.  As they got closer, they saw that it really was a tiny village - just a 2 or 3 story houses and buildings built in a circle, around a sort of small plaza.  The houses seemed to face in towards the middle, so they could only see the backs of them, but each had a small back door, a little garden, and the occasional laundry line.  As they got closer they started to see some of the villagers - beings of all shapes and sizes - but before they could get a good look, there was shouting.  A blue and white mushroom came bouncing out, shouting at the three of them, in a deep, booming voice.  
 
@@ -241,7 +241,7 @@ Natalie and Julian watched the fountain and the little stars for a moment, until
 "How can we go home?"
 
 
-Gronk looked at her seriously.  "Any of the starlians can take you home, but I'm afraid there's only one that will know where that is.  You will probably have to wait until Kisma is charged to go home.  Until then, we can make sure you are comfortable and fed.  Will that be acceptable?"
+Gronk looked at her seriously.  "Any of the starlians can take you home, but I'm afraid there's only one that will know where that is."
 
-####Chapter break?
+### Chapter break
 
