@@ -240,7 +240,6 @@ Natalie and Julian watched the fountain and the little stars for a moment, until
 
 "How can we go home?"
 
-
 Gronk looked at her seriously.  "Any of the starlians can take you home, but I'm afraid there's only one that will know where that is."
 
 ### Chapter break
