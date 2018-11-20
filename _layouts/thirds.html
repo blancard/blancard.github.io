@@ -18,11 +18,11 @@
 <body>
 	<main>
 		<section class="thirds one-third">
-			<header class="header1">Auto/Biographics</header>
+			<header class="header1">{{page.categories[0]}}</header>
 			<article class="article1 hidden"  id="articleLeft">
 				<ul>
 					{% for post in site.posts %}
-						{% if post.contentType == 'autobio' %}
+						{% if post.contentType == page.categories[0] %}
 							<li>
 							<h2><span onclick="linker(this)" class="link" data-link="{{ post.url }}">{{ post.title }}</span></h2>
 							<p>{{ post.excerpt }}</p>
@@ -43,11 +43,11 @@
 			</footer>
 		</section>
 		<section class="thirds two-third">
-			<header class="header2">Fiction</header>
+			<header class="header2">{{ page.categories[1] }}</header>
 			<article class="article2 hidden"  id="articleMid">
 				<ul>
 					{% for post in site.posts %}
-						{% if post.contentType == 'fiction' %}
+						{% if post.contentType == page.categories[1] %}
 							<li>
 							<h2><span onclick="linker(this)" class="link" data-link="{{ post.url }}">{{ post.title }}</span></h2>
 							<p>{{ post.excerpt }}</p>
@@ -68,11 +68,11 @@
 			</footer>
 		</section>
 		<section class="thirds three-third">
-			<header class="header3">Etc</header>
+			<header class="header3">{{ page.categories[2] }}</header>
 			<article class="article3 hidden" id="articleRight">
 				<ul>
 					{% for post in site.posts %}
-						{% if post.contentType == 'etc' %}
+						{% if post.contentType == page.categories[2] %}
 							<li>
 							<h2><span onclick="linker(this)" class="link" data-link="{{ post.url }}">{{ post.title }}</span></h2>
 							<p>{{ post.excerpt }}</p>

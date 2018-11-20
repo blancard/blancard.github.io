@@ -2,8 +2,8 @@
 layout: post
 title:  Natalie and Julian 1 - The Little Star
 date:   2018-11-08 09:49:50 -0500
-categories: fiction
-contentType: fiction
+categories: naj
+contentType: naj
 ---
 
 Natalie, Julian, and the Little Star
@@ -12,7 +12,7 @@ One morning, Natalie and Julian, who were sister and brother, were kicked out of
 
 "You two are driving me nuts!  Go play outside!"
 
-It was a cool fall day, so they wore their coats as they tramped through the crinkly leaves, singing together.  Natalie was determined to find the perfect stones for a sidewalk for her fairy village, while Julian, who liked trains, was dragging the largest stick he could find, only to drop them when he found a larger one.  Natalie didn't usually let Julian contribute to her village, but she had told him, if he found the perfect train, she would consider adding a light rail service to connect the outskirts of town to the post office.
+It was a cool fall day, so they wore their coats as they tramped through the crinkly leaves, singing together.  Natalie was determined to find the perfect stones for a sidewalk for her fairy village, while Julian, who liked trains, was dragging the largest stick he could find, which he would discard when he found a larger one.  Natalie didn't usually let Julian contribute to her village, but, she had told him, if he found the perfect train, she would consider adding a light rail service to connect the outskirts of town to the post office.
 
 Natalie stopped.  Julian bumped into her.  Something sparkly had caught her eye, between the treetops, high in the sky.  It was small, and twinkly, like a star, but it was moving, and moving strangely.  Darting this way and that, then slowing and drifting along, then haphazardly careening again.  Not, Natalie thought, how stars usually behave.  And it was morning.  When was the last time you saw a star in the daytime?
 
@@ -32,17 +32,17 @@ The tiny star was indeed getting closer, but it was still wafting this way and t
 
 It really did seem to be moving toward them.  "Does it see us?" Julian asked.  
 
-"No, don't be ridiculous," Natalie answered, but she wasn't actually sure.  It really did seem to be moving toward them.  "Well, maybe..."
+"No, don't be ridiculous," Natalie answered, but she wasn't actually sure.  It really did seem to be moving toward them.  "Well, actually.\.."
 
 It floated down over their heads, and stopped, hovering just a few feet away, at eye level.
 
-It was a tiny star.
+It was a little star.
 
 It wasn't a star like you learn about in science at school, it was actually star shaped, but maybe a little chubby, and bopped and floated in the air.  
 
 "Woah," Julian said, transfixed.  The star did a little flip, and then a loop-de-loop.
 
-"Do you think it's...happy?" Natalie asked, for the first time in her life, really not knowing what she was seeing.  As if to respond, the star twinkled brightly for a moment.
+"Do you think it's.\..happy?" Natalie asked, for the first time in her life, really not knowing what she was seeing.  As if to respond, the star twinkled brightly for a moment.
 
 Then, as if out of nowhere, the star grew dim, and fell to the ground, and laid still in the grass.
 
@@ -68,7 +68,7 @@ Natalie and Julian could hardly believe what was happening.  They looked at each
 
 They burst through the cool, wet clouds, shooting past the sky, into the inky darkness beyond, faster and faster, as if riding a spaceship made of the little star's light.  Natalie grabbed Julian's hand and held it tightly. She wasn't afraid, she just really loved him, or, at least, that's what she told me, later, when they got to my planet.
 
-Chapter 2.
+####Chapter 2.
 
 They raced through new solar systems, past undiscovered planets, through interstellar clouds and nebulae and, Julian thought, maybe even a black hole. Natalie thought that you wouldn't be able to see a black hole, but she didn't know for sure.
 
@@ -174,7 +174,7 @@ Natalie knew Julian would ask, even though it was a little impolite.  She nudged
 
 "Gronklamoose Percival Moopstop."  Even Gronk was laughing.
 
-Chapter Next
+####Chapter Break?
 
 They saw a few small buildings nestled in the woods ahead.  As they got closer, they saw that it really was a tiny village - just a 2 or 3 story houses and buildings built in a circle, around a sort of small plaza.  The houses seemed to face in towards the middle, so they could only see the backs of them, but each had a small back door, a little garden, and the occasional laundry line.  As they got closer they started to see some of the villagers - beings of all shapes and sizes - but before they could get a good look, there was shouting.  A blue and white mushroom came bouncing out, shouting at the three of them, in a deep, booming voice.  
 
@@ -240,7 +240,8 @@ Natalie and Julian watched the fountain and the little stars for a moment, until
 
 "How can we go home?"
 
-Chapter Next?
 
 Gronk looked at her seriously.  "Any of the starlians can take you home, but I'm afraid there's only one that will know where that is.  You will probably have to wait until Kisma is charged to go home.  Until then, we can make sure you are comfortable and fed.  Will that be acceptable?"
+
+####Chapter break?
 
