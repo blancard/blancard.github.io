@@ -64,3 +64,81 @@ footer > div {
 .bottom-link {
 	padding: 10px;
 }
+.imageHover {
+	z-index: inherit;
+	position: relative;
+	text-decoration: underline;
+}
+.imageHover .tooltipImage {
+	visibility: hidden;
+	width: 200px;
+	background-color: #222;
+	padding: 2px;
+	position: absolute;
+	z-index: 1;
+	top: 100%;
+    left: 50%; 
+    margin-left: -100px; /* Use half of the width (120/2 = 60), to center the tooltip */
+}
+.imageHover:hover .tooltipImage {
+	overflow: visible !important;
+	visibility: visible;
+}
+.song {
+	padding: 10px;
+	position: relative;
+}
+.songClose {
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	cursor: pointer;
+}
+.song img {
+	width: 100%;
+}
+.song h2 {
+	margin: 5px 0 0px 0;
+	cursor: pointer;
+}
+.song-text {
+	display: none;
+	padding: 10px 0 5px 0;
+}
+audio {
+	width: 100%;
+	padding: 10px 0;
+}
+.song-rights {
+	font-size: 0.8em;
+	padding: 10px 0 0 0;
+}
+#play, #pause, #stop {
+	display: inline-block;
+}
+
+#playPause {
+	border: 0;
+	background: transparent;
+	box-sizing: border-box;
+	width: 0;
+	height: 10px;
+  
+	border-color: transparent transparent transparent #ccc;
+	transition: 100ms all ease;
+	cursor: pointer;
+  
+	// play state
+	border-style: solid;
+	border-width: 7px 0 7px 14px;
+  
+	&.paused {
+	  border-style: double;
+	  border-width: 0px 0 0px 10px;
+	}
+  
+	&:hover {
+	  border-color: transparent transparent transparent #ddd;
+	}
+  }
+  

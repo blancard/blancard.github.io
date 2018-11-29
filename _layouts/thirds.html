@@ -22,6 +22,14 @@
 			<article class="article1 hidden"  id="articleLeft">
 				<ul>
 					{% for post in site.posts %}
+						{% if post.contentType == 'mymusic' %}
+							<li>
+							<h2><span onclick="linker(this)" class="link" data-link="{{ post.url }}">{{ post.title }}</span></h2>
+							<p>{{ post.excerpt }}</p>
+							</li>
+						{% endif %}
+					{% endfor %}
+					{% for post in site.posts %}
 						{% if post.contentType == page.categories[0] %}
 							<li>
 							<h2><span onclick="linker(this)" class="link" data-link="{{ post.url }}">{{ post.title }}</span></h2>

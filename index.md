@@ -2,6 +2,6 @@
 layout: thirds
 categories: 
 - music
-- naj
-- etc
+- fiction
+- autobio
 ---

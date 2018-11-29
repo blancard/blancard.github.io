@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Natalie and Julian 1 - The Little Star
-date:   2018-11-08 09:49:50 -0500
-categories: naj
-contentType: naj
+date:   2018-11-29 09:49:50 -0500
+categories: fiction
+contentType: fiction
 ---
 
 Natalie, Julian, and the Little Star

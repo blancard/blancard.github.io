@@ -1,3 +1,4 @@
+var aud;
 function linker(a){
 	var link = $(a).data('link'),
 		loc = $(a).closest('article').attr('id');
@@ -102,5 +103,17 @@ $(document).ready(function(){
 		if (e.keyCode == 13){
 			searcher($(this).val(), $(this).attr('name'));
 		}
+	});
+	$('body').on('click', '.song', function() {
+		$(this).children(".song-text").show();
+		$(this).css("border", "1px solid #ccc");
+	});
+	$('body').on('click', '#playPause', function() {
+		console.log("click");
+		var btn = $("#playPause");
+		btn.click(function() {
+			btn.toggleClass("paused");
+			return false;
+		});
 	});
 });

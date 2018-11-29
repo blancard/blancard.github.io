@@ -1,0 +1,11 @@
+---
+layout: post
+title: C2C - F.U.Y.A.
+date: 2018-11-29 09:57:20
+categories: music
+contentType: music
+---
+C2C isn't your regular kind of music, it's French.  I want you to read that with <span class="imageHover">the expression Eddie Izzard makes<video class="tooltipImage" autoplay loop muted inline><source src="https://zippy.gfycat.com/NextMeanGadwall.webm" type="video/webm"></video></span>
+ when he says it.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KOaT1vdLmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

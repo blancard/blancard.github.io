@@ -6,6 +6,8 @@ categories: fiction
 contentType: fiction
 ---
 
+This started as a sober rewrite of N and J, but then became someone else.  Then I got depressed because I realized that by imaginging a person's fantasy like that, you're depicting the opposite as their reality, and this was my kid, so, dark af.
+
 Max took Eric's hand.  He was 4, he shouldn't need her so much.  She loved him very much, but patience was not among her many gifts.  He would've just stood there staring at the leaves for days, but she was already bored of them.  She pulled him along.  
 
 Her tug on his arm pulled his attention down from the treetops.  Satisfied he would follow, she turned back towards her destination and, with a determined mindset, loudly trampled their way through the leaves and twigs on the forest floor.  Eric didn't speak very well.  She wished she could talk to him the way her friends talked to their brothers and sisters.  She did anyway, but, she supposed, she just wished he understood.
