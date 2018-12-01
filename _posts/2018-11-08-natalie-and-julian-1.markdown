@@ -244,3 +244,6 @@ Gronk looked at her seriously.  "Any of the starlians can take you home, but I'm
 
 ### Chapter break
 
+Hot tears started flowing down Julian's cheeks - but he refused to make a sound.  Natalie sat and pulled him onto her lap, and held his head to her shoulder.  She spoke quietly to him, telling him they would be ok.  He knew it, but he still couldn't always stop tears.  He blinked hard and watched the village.
+
+In a corner, he saw two people talking - two _human_ people.
