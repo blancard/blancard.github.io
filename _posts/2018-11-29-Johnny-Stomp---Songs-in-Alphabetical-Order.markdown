@@ -6,6 +6,4 @@ categories: mymusic
 contentType: mymusic
 ---
 
-My own music.  Old and drunk and sloppy.  But worth a listen!
-
-Still working on this page.  It's going to work eventually tho.
+My own music.  Old and drunk and sloppy.  But worth a listen!  This link will take you to Bandcamp.

@@ -1,18 +1,54 @@
 <span onClick="backLinker(this)" class="back-link">&lt; back</span>
 <h1>{{ page.title }}</h1>
-{{ content }}
-<div class="controls">
-    <button id="playPause"></button>
-    <button id="stop"></button>
-    <div id="timer"></div>
-</div>
-{% for song in site.data.songs %}
-    <div class="song">
-        <h2>{{ song.title }}</h2>
-        <div class="song-text">
-            {{ song.text }}
+{{ content }}<div class="container">
+
+        <audio id="audio" preload="none" tabindex="0">
+        {% for song in site.data.songs %}
+            <source src="assets/JohnnyStomp/{{ song.mp3 }}.mp3" data-track-number="{{ forloop.index }}" />
+        {% endfor %}
+        Your browser does not support HTML5 audio.
+        </audio>
+        <div class="player">
+            <div class="large-toggle-btn">
+                <i class="large-play-btn fa fa-play "><span class="screen-reader-text">Large play button</span></i>
+            </div>
+        
+            <div class="info-box">
+                <div class="track-info-box">
+                    <div class="track-title-text"></div>
+                    <div class="audio-time">
+                        <span class="current-time">00:00</span> /
+                        <span class="duration">00:00</span>
+                    </div>
+                </div>
+                <div class="progress-box">
+                    <div class="progress-cell">
+                        <div class="progress">
+                            <div class="progress-buffer"></div>
+                            <div class="progress-indicator"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="controls-box">
+                <i class="fas fa-backward previous-track-btn disabled"><span class="screen-reader-text">Previous track button</span></i>
+                <i class="fas fa-forward next-track-btn"><span class="screen-reader-text">Next track button</span></i>
+            </div>
         </div>
-    </div> 
-{% endfor %}
+        <div class="play-list">
+            {% for song in site.data.songs %}
+                <div class="play-list-row" data-track-row="{{ forloop.index }}">
+                    <div class="small-toggle-btn">
+                        <i class="small-play-btn fas fa-play"><span class="screen-reader-text">Small toggle button</span></i>
+                    </div>
+                <div class="track-number">
+                    {{ forloop.index }}.
+                </div>
+                    <div class="track-title">
+                        <a class="playlist-track" href="#" data-play-track="{{ forloop.index }}">{{ song.title }}</a>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
 
 <div class="song-rights">Copylefted.  Share, copy, etc.  Remix, but let me know, and throw me a name check, link back to this site.  </div>
