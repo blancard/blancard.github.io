@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.26.0/babel.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <script src="https://use.fontawesome.com/a768f4e0c8.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <style>
+        /* utility classes */
+            .hide {
+                display: none;
+            }
+            .inline {
+                display: inline-block;
+            }
+        /* header logo */
+            .header-logo {
+                 padding-top: 15px;
+            }
+            .header-logo-img img {
+                max-height: 65px;
+            }
+            .header-logo-text {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 1rem;
+                line-height: 18px;
+                padding: 8px 0;
+                font-weight: bold;
+                margin: 0;
+                border: 0;
+            }
+            .header-logo-text a {
+                color: inherit
+            }
+        /* header search  */
+            #seachTarget {
+                position: relative;
+            }
+            .search {
+                height: 52px;
+                position: absolute;
+                right: 0;
+                top: calc(50% - 26px);
+                padding: 8px;
+                cursor: pointer;
+            }
+            .search > div {
+                font-weight: 600;
+                height: 34px;
+                padding: 0px 8px;
+                font-family: "Open Sans", Arial, sans-serif;
+            }
+            .search input {
+                height: 34px;
+                padding: 5px;
+            }
+            .searchIconLight {
+                font-size: 24px;
+                background-color: #fff;
+                color: #000;
+            }
+            .searchIconDark {
+                background-color: #000;
+                color: #fff;
+                height: 34px;
+                width: 44px;
+            }
+            .searchIconDark > i {
+                padding: 8px 0 0 6px;
+            }
+        /* header buttonbar  */
+            .buttonbar {
+                background-color: #000;
+                color: #fff;
+            }
+            .buttonbar button {
+                font-family: sans-serif;
+                height: 50px;
+                border: 0;
+                padding: 7px;
+                background-color: #000;
+                color: #fff;
+                cursor: pointer;
+            }
+            .buttonbar button:hover {
+                background-color: #fff;
+                color: #000;
+                text-decoration: none;
+            }
+            .buttonbar i {
+                padding-right: 4px;
+            }
+        /* header browse menu dropdown */
+            #browsemenuTarget {
+                font-family: "Open Sans", Arial, sans-serif;
+                background-color: #f8f8f8;
+                box-shadow: 0px 3px 4px 1px rgba(50, 50, 50, 0.5);
+                width: 100%;
+             }
+            .browsemenu-dropdown h3 {
+                /* margin-top: 30px; */
+                font-size: 16px;
+                font-weight: 700;
+                color: #3f4344;
+                text-transform: uppercase;
+                font-size: 16px;
+                font-weight: bold;
+            }
+            .browsemenu-dropdown h2 {
+                font-weight: 700;
+                margin-top: 30px;
+                font-size: 24px;
+                font-weight: bold;
+                margin-right: 50px;
+                padding-left: 10px;
+            }
+            .browsemenu-dropdown ul {
+                list-style-type: none;
+                padding-inline-start: 0;
+            }
+            .browsemenu-dropdown li {
+                padding-top: 16px;
+                line-height: 20px;
+
+            }
+            .browsemenu-dropdown a {
+                color: #3f4344;
+                font-size: 14px;
+                line-height: 21px;
+            }
+            .bmd-list {
+                margin: 30px 15px;
+                /* padding: 0 15px; */
+            }
+            .bmd-list-middle {
+                padding: 0 30px;
+                border-right: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+
+            }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="a11y"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col" id="logoTarget"></div>
+                    <div class="col clearfix" id="searchTarget">Search</div>
+                </div>
+            </div>
+        </div>
+        <div class="row buttonbar">
+            <div class="container">
+                <div class="row">
+                    <div id="buttonbarTarget"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid hide" id="browsemenuTarget">
+    </div>
+</body>
+<script type="text/babel">
+    class Browsemenu extends React.Component {
+        componentDidMount() {
+            document.addEventListener('mousedown', this.handleClickOutside);
+        }
+        componentWillUnmount() {
+            document.removeEventListener('mousedown', this.handleClickOutside);
+        }
+        handleClickOutside = (e) => {
+            if(!this.node.contains(e.target)){
+                document.getElementById("browsemenuTarget").classList.add("hide")
+            }
+        }
+        render(){
+            return (
+                <div ref={node => this.node = node} className="container browsemenu-dropdown" onClick={this.handleClick}>
+                    <div className="row">
+                        <div><h2>Browse</h2></div>
+                        <div className="bmd-list">
+                            <h3>
+                                By Format
+                            </h3>
+                            <ul>
+                                <li><a href="">Books</a></li>
+                                <li><a href="http://www.chipublib.org/browse/ebooks/">eBooks</a></li>
+                                <li><a href="http://www.chipublib.org/browse/audiobooks/">Audiobooks</a></li>
+                                <li><a href="http://www.chipublib.org/browse/movies/">Movies &amp; TV</a></li>
+                                <li><a href="http://www.chipublib.org/browse/music/">Music</a></li>
+                            </ul>
+                        </div>
+                        <div className="bmd-list bmd-list-middle">
+                            <h3>By Audience</h3>
+                            <ul>
+                                <li><a href="http://www.chipublib.org/browse/kids/">Kids</a></li>
+                                <li><a href="http://www.chipublib.org/browse/teens/">Teens</a></li>
+                            </ul>
+                        </div>
+                        <div className="bmd-list">
+                            <h3>More</h3>
+                            <ul>
+                                <li><a href="http://www.chipublib.org/online-resources/">Online Resources</a></li>
+                                <li><a href="http://www.chipublib.org/browse/jobs-small-business/">Jobs &amp; Small Business</a></li>
+                                <li><a href="http://www.chipublib.org/browse/chicago-history/">Chicago History</a></li>
+                                <li><a href="http://www.chipublib.org/archives-collections/">Archival Collections</a></li>
+                                <li><a href="https://www.chipublib.org/browse_program/one-book-one-chicago/">One Book, One Chicago</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+            )
+        }
+    }
+    class Buttonbar extends React.Component {
+        showBrowseMenu = event => {
+            document.getElementById("browsemenuTarget").classList.remove("hide")
+        }
+        eventsKeyPress = (e) => {
+            if (e.key === 'Enter') {
+                this.eventsClick;
+            }
+        }
+        eventsClick = event => {
+            window.location.href='https://chipublib.bibliocommons.com/events/search/index'
+        }
+        render(){
+            return (
+                <div className="container">
+                    <div className="row">
+                        <div className="col">
+                            <button className="browse" onClick={this.showBrowseMenu} onKeyPress={this.browseKeyPress} >Browse</button>
+                            <button className="events" onClick={this.eventsClick} onKeyPress={this.eventsKeyPress}>
+                                <i className="fa fa-calendar"></i>
+                                Events
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            )
+        }
+    }
+    class Logo extends React.Component {
+        render(){
+            return (
+                <div className="header-logo">
+                    <div className="header-logo-img"><a href="https://www.chipublib.org/"><img src="https://cor-liv-cdn-static.bibliocommons.com/images/IL-CPL/logo.png?1506021413180" alt="Chicago Public Library" /></a></div>
+                    <div className="header-logo-text"><a href="index.php">Digital Collections</a></div>
+                </div>
+            )
+        }
+    }
+    class Search extends React.Component {
+        handleSearchKeyPress = (e) => {
+            if (e.key === 'Enter') {
+                console.log("gonna search from here")
+            }
+        }
+        expandSearchKeyPress = (e) => {
+            if (e.key === 'Enter') {
+                this.expandSearch()
+            }
+        }
+        expandSearch = event => {
+            const searchInput = document.getElementById('searchInput')
+            if (searchInput.value){
+                console.log("searchin")
+            } else if (searchInput.classList.contains("hide")) {
+            searchInput.classList.remove("hide")
+            searchInput.focus()
+                document.getElementById('searchIcon').classList.remove("searchIconLight")
+                document.getElementById('searchIcon').classList.add("searchIconDark")
+            }
+        }
+        render(){
+            return (
+                <div className="search float-right" onKeyPress={this.expandSearchKeyPress} onClick={this.expandSearch} tabIndex="0" >
+                    <div className="inline hidden-sm-down">Search</div>
+                    <input className="hide" aria-label="Search the Digital Collections" type="text" id="searchInput" onKeyPress={this.handleSearchKeyPress} />
+                    <div className="inline searchIconLight" id="searchIcon"><i className="fa fa-search" aria-hidden="true"></i></div>
+                </div>
+            )
+        }
+    }
+    
+    
+    ReactDOM.render(<Logo />, document.getElementById('logoTarget'))
+    ReactDOM.render(<Search />, document.getElementById('searchTarget'))
+    ReactDOM.render(<Buttonbar />, document.getElementById('buttonbarTarget'))
+    ReactDOM.render(<Browsemenu />, document.getElementById('browsemenuTarget'))
+</script>
+</html>

@@ -4,9 +4,8 @@ title:  Natalie and Julian 1 - The Little Star
 date:   2018-11-29 09:49:50 -0500
 categories: fiction
 contentType: fiction
+desc: Natalie, Julian, and the Little Star
 ---
-
-Natalie, Julian, and the Little Star
 
 One morning, Natalie and Julian, who were sister and brother, were kicked out of their house.  
 
