@@ -5,7 +5,7 @@ read -p "contentType: " ContentType
 #OrigFileFull=~/Documents/stories/$OrigFile
 shortDate=$(date "+%Y-%m-%d")
 longDate=$(date "+%Y-%m-%d %H:%M:%S" )
-filePath=~/Documents/nblancard/blancard.github.io/_posts/
+filePath=_posts/
 slug=${Title// /-}
 filename=$filePath/$shortDate-$slug.markdown
 touch $filename
