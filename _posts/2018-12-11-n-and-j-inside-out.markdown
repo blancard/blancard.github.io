@@ -47,9 +47,79 @@ Katy, in the passenger seat, was looking at a map and making notes at the same t
 
 "IT WENT LEFT AGAIN!!!  KELL DID YOU HEAR ME????"  She rapped on the top of Kell's head.  Kell giggled.  Katy was charting their pursuit as accurately as their haste would allow.  
 
-The tires squealed as Kell too4 k the turn at high speed.  Bridget collided with Marcy, which she found quite frustrating.  .  "DO YOU HAVE TO PUT YOUR BUTT IN MY FACE???"
+The tires squealed as Kell took the turn at high speed.  Bridget collided with Marcy, which she found quite frustrating.  "DO YOU HAVE TO PUT YOUR BUTT IN MY FACE???"
+
+Katy looked up, a curious expression on her face, tapping her lower lip with her pen.  She spoke softly despite the roar of the engine, the squealing tires, and the impatient, fervent bickering from the back seat.  "We've been past this intersection 3 times now."
+
+Kell turned to her.  "I'm sorry?"
+
+Katy seemed to be startled by her attention.  "Nothing, well, it's just that, we've been past this intersection 3 times now.  First we came up from the south, and turned east; then we came back from the east and went straight through it, then after looping around, we came down from the north, and turned west, like, right now."
+
+"That's weird.  I wonder if it likes this intersection or something."
+
+"OH MY GOOODDDD," Marcy yelled, from the back seat.  "It doesn't *like* this intersection, it's lost, and this is like the only place it knows."
+
+Kell considered her response in a much more calm demeanor than the one in which it was presented.  She tapped the brake and cut the wheel hard to the right to follow the little glow around another sharp turn.  The truck slid around the turn gracefully.  "Hm.  That makes sense.  But that would mean that it's not really...it's not really going anywhere."
+
+Katy examined her notes.  "I discern no pattern whatsoever."
+
+Marcy, perpetually frustrated, groaned.  "Did you seriously not know this???  It's just scared, it's running from us."
+
+Bridget suddenly stopped shouting her unneccessary directions and turned to Marcy.  "It's afraid of us?"
+
+Marcy shrugged.  "Wouldn't you be?  Four terrifying gang members chasing you in a metal monster?"
+
+Bridget understood.  "So why are we chasing it?"
+
+Marcy replied, "I don't know, I thought just because we're terrifying gang members and we had to keep up our rep."
+
+Kell slowed to a gentle stop.  Katy carefully noted this.  The little glow did a little loop in the air when it noticed, and turned around.  It slowly approached the stopped truck and floated, looping and twirling 15 feet in the air in front of them.
+
+Kell smiled.  "I don't think it was afraid."
+
+Bridget scoffed.  "Of course it was.  Any creature from the universe would be justified to be scared of a gang like ours."
+
+Katy disagreed.  "I think it was playing with us.  Playing chase."
+
+Bridget did something that none of them had even considered.  She shouted, unneccessarily loudly, at the little glow.  "Hey!  Glowing Thing!  Were you afraid of us?"
+
+The little star floated down towards them and stopped just a couple of feet in front of them.  It did a happy little twirl and a tiny loop.
+
+Marcy's gaze was fixed, but a reluctant smile was growing on her face.  "That's not a scared twirl."
+
+Kell gave the little star a big smile.  "I'm Kelly.  My friends call me Kell.  This is Katy, and that's Bridget and Marcy in the back.  Do you want to be in our gang?"
+
+The little star gave a flip and a vertical jiggle.  It seemed to understand, and seemed to accept their proposal.
+
+Marcy was giving this development serious thought.  "This could be a very positive addition to the gang.  We'll finally outnumber the Cruise Crew, and we'll have the same number of members as Donnie's Dogs."
+
+Katy responded with her typical detached curiosity.  "Were we concerned with our roster?  Because your little sister has been asking to join for weeks."
+
+"Now we can finally play volleyball against Donnie's Dogs," Marcy said, as if to herself.  "My sister?  No way, she's only ten."
+
+"We started this gang when we were ten."
+
+"Yeah!  And we've become brutal, vicious gang members in the last 5 years.  We even terrify random alien species that visit our planet," she continued, gesturing at the little star.
+
+Bridget cocked her head and quietly responded.  "Do we though...?" she replied, watching the star continue to jiggle happily before them.
+
+Kell spoke up.  "Ooh, I'd love it if Jenna joined.  She has so many books, we could have Gang Reading Afternoons once a week where we all read together."
+
+Katy seemed interested.  "Would one person read aloud to the others, or would we all read separately?"
+
+Bridget was an excellent decider.  "We'll take a vote once we swear Jenna in.  Is she at home, Marcy?"
+
+Marcy scowled and didn't respond.  She sunk deep into her seat and crossed her arms in front of her chest.
+
+Katy recentered them.  "
 
 
+how do they talk?
+
+
+###
+
+Max wiped away the the thick layer of sand and dust that had accumulated on the radio.  He pulled out a tiny screwdriver from his belt and removed the back cover.  The parts inside looked decent; he could probably fix it up.  He carefully replaced the cover and put it in the pile of items he would bring back to camp.  He looked up from his work.  He felt a drop of sweat working its way down through the dust and sand that had acculumated on him.  He wiped his brow with his forearm and gazed out of the ancient wreckage of the truck he was savenging.  The valley below was dry, with hard-packed earth that was as  In the distance, past the center of the valley, he could see a band of mercs on dirt bikes 
 
 181012
 49585276_p0.png - oversize girl
