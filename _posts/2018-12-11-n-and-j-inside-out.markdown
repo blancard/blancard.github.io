@@ -111,15 +111,51 @@ Bridget was an excellent decider.  "We'll take a vote once we swear Jenna in.  I
 
 Marcy scowled and didn't respond.  She sunk deep into her seat and crossed her arms in front of her chest.
 
-Katy recentered them.  "
+Katy addressed the star.  "Do you want to come to Marcy's house to meet your fellow pledge?"
 
+The little star shook vigorously from side to side.  
 
-how do they talk?
+The girls were a little taken aback by this quite clear expression of disinterest.
 
+Kell clarified.  "You really don't want to come with us?"
+
+The little star shook from side to side again.
+
+"But you do want to be our friend, right?"  
+
+It shook vertically this time.
+
+Marcy thought she understood.  "Is there something you want to do?"
+
+It shook vertically again.
+
+"Can you take us there?"
+
+The little star did a quick loop, then started off in a northerly direction.  The girls, shocked at this sudden development, strapped themselves back in.  Kell floored the gas, peeled out the tires, and raced off to catch up with the little star.
 
 ###
 
-Max wiped away the the thick layer of sand and dust that had accumulated on the radio.  He pulled out a tiny screwdriver from his belt and removed the back cover.  The parts inside looked decent; he could probably fix it up.  He carefully replaced the cover and put it in the pile of items he would bring back to camp.  He looked up from his work.  He felt a drop of sweat working its way down through the dust and sand that had acculumated on him.  He wiped his brow with his forearm and gazed out of the ancient wreckage of the truck he was savenging.  The valley below was dry, with hard-packed earth that was as  In the distance, past the center of the valley, he could see a band of mercs on dirt bikes 
+Max wiped away the the thick layer of sand and dust that had accumulated on the radio.  He pulled out a tiny screwdriver from his belt and removed the back cover.  The parts inside looked decent; he could probably fix it up.  He carefully replaced the cover and put it in the pile of items he would bring back to the village.  He looked up from his work.  He felt a drop of sweat working its way down through the dust and sand that had acculumated on him.  He wiped his brow with his forearm and gazed out of the ancient wreckage of the truck he was savenging.  The valley below was dry, with hard-packed earth that was as  In the distance, past the center of the valley, he could see a band of mercs on dirt bikes raising dust clouds through the valley floor.
+
+The mercs looked like Reapers; they wore purple and black to be recognizable. They were moving fast towards something, which was never a good sign. Kev stepped out of the shadows to have a better look.
+
+He saw immediately what they were after. A meteorite was coming down. It was smaller than usual, but even tiny meteorites could bring in hundreds of moneys. Kev groaned when he noticed that, coming from the east, the far side of where the meteorite would hit, was another group of mercs, these ones in white and green. Cloverfield.
+
+The Reapers saw them too. They were already drawing their weapons, getting ready for a fight.
+
+Mercs usually traveled in packs of 5 or 10,but these groups were much larger, 20 at least. They must've seen the meteor coming down from wherever those people live.
+
+The gunfire started. Kev finished up and packed away his things. He didn't want to get caught off guard with a fight like this going on so close.
+
+Kev disliked mercs. They were so selfish, there was no reason for it. Everyone prospers when you share. He was drawn to them, morbidly curious, like watching a car crash or a bar fight. Or a merc fight. After meeting a couple of them at the inn at his village, he had become fascinated by their cruelty, abjectness, and dedication to their meaningless cause of self - continuation. 
+
+He had once come across a written code of conduct for one of the merc companies. It was filled with ridiculous platitudes, glorifying violence, wealth, and individual victory : "The sword is mightier than the pen," and "Second place is the first loser."
+
+He was still envious of them, though.  They were the only people who could really get out and see the world anymore.  In the olden days, if you were from a small village, and you wanted to move to the big city, you'd just go.  You'd get a job, find a place to live, and start a new life, maybe visit your family on weekends.  But now, villagers were viallagers forever, and city folk stayed city folk.  What he wouldn't give to move to the big city, meet all kinds of interesting people, hear about adventures, and maybe even go on a few.  In a city, there might be other kids his age.  There might even be a school he could go to, instead of just learning from whatever books he could find when he was out scavaging.  
+
+But, until the world repaired itself, and everything went back to the way it was in the olden days, he was a villager.  He could still hang out at the pub in the inn and talk to the people who passed through - once a month or something.
+
+
 
 181012
 49585276_p0.png - oversize girl
