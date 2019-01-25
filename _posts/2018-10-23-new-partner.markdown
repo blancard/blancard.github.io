@@ -10,7 +10,7 @@ New Partner just came on.
 
 It's tough for me to think about the early days of my heroin addiction.  They were perfect.  I don't mean that to romanticize it - it just solved a lot of problems, and it hadn't yet started to cause them.  Today, hearing songs I listened to in those days brings on a wave that washes over me with an echo of that perfection.
 
-But, as I like to say, if you look at the things you like, you'll see what you value.  So what was perfect about it?
+But, as I like to say, if you look at the things you like, you'll see what's important to you, and who you want to be.  So what was perfect about it?
 
 The world was so gentle.  Things didn't feel so rushed.  Most of the time, I'm rushing everywhere, frantically trying to escape the torture of ...what?
 

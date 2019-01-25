@@ -2,8 +2,8 @@
 layout: post
 title:  Train Trip from IF
 date:   2015-08-09 09:49:50 -0500
-categories: fiction
-contentType: fiction
+categories: hide
+contentType: hide
 desc: A peice of a novel I started in ~1999? ish.  In this passage, the character is on a cross country train trip after making some big decisions, and acting on what she believes is right, which involved murdering someone.
 ---
 

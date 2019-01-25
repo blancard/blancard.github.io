@@ -4,9 +4,8 @@ title:  Natalie and Julian 1 - The Little Star
 date:   2018-11-29 09:49:50 -0500
 categories: fiction
 contentType: fiction
+desc: Natalie, Julian, and the Little Star
 ---
-
-Natalie, Julian, and the Little Star
 
 One morning, Natalie and Julian, who were sister and brother, were kicked out of their house.  
 
@@ -246,6 +245,7 @@ Gronk looked at her seriously.  "Any of the starlians can take you home, but I'm
 
 Hot tears started flowing down Julian's cheeks - but he refused to make a sound.  Natalie sat and pulled him onto her lap, and held his head to her shoulder.  She spoke quietly to him, telling him they would be ok.  He knew it, but he still couldn't always stop tears.  He blinked hard and watched the village.
 
+<<<<<<< HEAD
 In a corner, he saw two people talking - two _human_ people.  They were adults, but younger ones, and they were dressed like hipsters.  The young woman wore a large trucker hat pulled low over her eyes, a black tank top, and old jeans.  The young man had medium-length hair that was quite messy.  He had a loose, thin scarf around his neck and a colorful shirt.  They were sitting at the sidewalk cafe they had passed earlier.  "Natalie."  
 
 "What?"
@@ -261,3 +261,6 @@ As Gronk peered in their direction, his brown furrowed, and his thick eyebrows d
 "Sure, I'll around if you need me."
 
 Natalie and Julian got up and made their way toward the two adults.  As they got closer, they saw the two were sitting with a third person, a tall, brown, furry person that looked like a labrador retreiver.  The dog person saw them and pointed, saying soemthing to his friends that the kids couldn't hear.  The humans turned towards them and 
+=======
+In a corner, he saw two people talking - two _human_ people.
+>>>>>>> 9aad88918bc435dc8fa7db5303abcaca8879ccfc

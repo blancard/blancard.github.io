@@ -2,8 +2,8 @@
 layout: post
 title:  Max & Eric 1
 date:   2018-11-20 11:01:50 -0500
-categories: fiction
-contentType: fiction
+categories: hide
+contentType: hide
 ---
 
 This started as a sober rewrite of N and J, but then became someone else.  Then I got depressed because I realized that by imaginging a person's fantasy like that, you're depicting the opposite as their reality, and this was my kid, so, dark af.
